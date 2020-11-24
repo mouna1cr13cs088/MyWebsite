@@ -73,11 +73,7 @@ p {
 
 .title-image {
   border-radius: 50%;
-  position: relative;
-  left: 40%;
-  top: 5%;
   width: 70%;
-  margin-bottom: 10%;
 }
 
 #Education {
